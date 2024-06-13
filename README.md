@@ -1,3 +1,3 @@
-**Node JS Boilerplate **
+# NodeJS Boilerplate
 
 Simple folder structure used for NodeJS projects
